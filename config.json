@@ -1,0 +1,27 @@
+{
+  "svg_id": "radar",
+  "width": 1960,
+  "height": 1160,
+  "colors": {
+    "background": "#fff",
+    "grid": "#bbb",
+    "inactive": "#ddd"
+  },
+  "title": "Kelalab Tech Radar 2021.09",
+  "quadrants": [
+    { "name": "Tekoäly ja Data-analytiikka" },
+    { "name": "Luotettava tietojenkäsittely" },
+    { "name": "Käyttökokemus" },
+    { "name": "Kehitys- ja infrastruktuuliteknologiat" }
+  ],
+  "rings": [
+    { "depth": 0, "name": "Tuotteistuksessa", "color": "#60A917" },
+    { "depth": 1, "name": "Koestettavana", "color": "#93d2c2" },
+    { "depth": 2, "name": "Odottaa kypsymistä", "color": "#93c47d" },
+    { "depth": 3, "name": "Potentiaalia", "color": "#efafa9" },
+    { "depth": 4, "name": "Vältä","color": "#fbdb84" }
+
+  ],
+  "print_layout": true,
+  "entries": [ ]
+}
